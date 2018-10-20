@@ -7,7 +7,6 @@ import { StripeComponent } from './components/stripe/stripe.component';
 @NgModule({
   declarations: [
     AppComponent,
-    ComponentsComponent,
     StripeComponent
   ],
   imports: [
