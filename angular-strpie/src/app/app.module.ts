@@ -10,7 +10,7 @@ import { StripeComponent } from './components/stripe/stripe.component';
     StripeComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
